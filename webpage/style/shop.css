@@ -1,0 +1,54 @@
+﻿
+  #shopItems a{
+
+       text-decoration: none;
+       padding: 10px 10px;
+       margin-left:100px;
+       border-right:solid orange;
+       background-color:khaki;
+       color: #190A05;
+      text-shadow: 0 1px 0 #fff; 
+       box-shadow: 0 -3px 3px rgba(0,0,0,.5) inset;
+  }
+ 
+  #shopItems{
+
+      background-color:#E8C571;
+      padding: 10px 0px;   
+       border-bottom: 1px solid #fff;
+       border-radius: 3px;   
+      box-shadow: 0 -3px 3px rgba(0,0,0,.5) inset;   
+
+  }
+
+ .phones li {
+     list-style:none;
+     display:inline;
+       text-decoration: none;
+ }
+
+ ul.unPhoneList li a {
+    text-decoration: none;
+
+ }
+
+ div.img{
+
+     margin: 5px;
+     border: 1px solid #ccc;
+     float: left;
+     width: 180px;
+ }
+
+ div.img:hover{
+     border: 1px solid #777;
+ }
+
+ div.img img{
+    
+ }
+
+ div.description{
+     padding: 15px;
+     text-align:center;
+ }

@@ -1,0 +1,23 @@
+ul{
+    list-style: none;
+  position: fixed;
+  float: left;
+  background: none; 
+}
+ul li{
+    
+    float: left;    
+  padding: 0px 20px;  
+}
+
+#subtotal{
+      padding-left: 40px;
+      font-family: Arial,sans-serif;
+      width: 400px;
+      height: 450px;
+      border:1px solid #C7D1D1;
+      box-shadow: 0 0 10px #BBC2A7;
+      border-radius: 5px;
+      font-weight: bold;
+      text-align: center;
+}

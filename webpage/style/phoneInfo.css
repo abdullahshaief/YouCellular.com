@@ -1,0 +1,19 @@
+
+ #mainDiv{
+    
+    border: 1px solid red;
+    margin: 0px 150px 10px 150px;
+
+}
+
+#modelPr{
+    padding-left: 40px;
+      font-family: Arial,sans-serif;
+      width: 400px;
+      height: 300px;
+      border:1px solid #C7D1D1;
+      box-shadow: 0 0 10px #BBC2A7;
+      border-radius: 5px;
+      font-weight: bold;
+      text-align: left;
+}
